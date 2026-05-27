@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b22thohe
 - 👀 I’m interested in books, movies, video games (esp. retro), sports, tech
-- 🌱 I’m currently learning Java OOP and C#.NET
+- 🌱 I’m currently learning AI algorithms in Game Programming
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me email: tomhell66@gmail.com
 - 😄 Pronouns: he/him
